@@ -16,3 +16,14 @@ Harapan saya semoga pada saat mengikuti Kampus Merdeka X Ruangguru_ saya dapat m
 ## Febri
 ### Front-End Developer
 Karena sesuai dengan tujuan saya pada saat mengikuti kampus merdeka X Ruangguru_ dimana saya ingin mendalami mengenai Front-End.
+
+
+# Materi
+## Hanusia
+### JavaScript
+Harapan saya saat melakukan studi independen di Ruangguru x Kampus Merdeka, saya bisa memahami JavaSricpt untuk bekal nanti saya di dunia pekerjaan.
+### Micro Frontend
+...
+# Career Plan
+## Hanusia
+### Front-end Engineering dan Quality Assurance
